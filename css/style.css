@@ -1,0 +1,28 @@
+body{
+    font-family: 'Inter Tight', sans-serif;
+}
+.nav-1{
+    background-color: aqua;
+}
+.nav-link{
+    font-size: 18px;
+    font: weight 700px;;
+    color: rgb(160, 21, 93);
+}
+.back-1{
+    background-color: #F0F6FB;
+}
+.m-2{
+    font-size: 22px;
+    color: blue;
+}
+.font{
+    font-size: 65px;
+}
+.banner-btn{
+  background-color: rgb(90, 17, 17);
+  color: blue;
+  font-weight: 600;
+  padding: 8px 35px ;
+  font-size: 10px; 
+}
